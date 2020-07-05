@@ -3,7 +3,7 @@
 I'm a computer engineer, currently studying **artificial intelligence and data engineering** in Pisa.
 
 - 🌱 Learning about machine learning and big data.
-- 📫 Reach me: https://twitter.com/jackthemiddle
+- 📫 Reach me on [Twitter](https://twitter.com/jackthemiddle)
 - ⚡ Fun fact: I love racing games.
 
 <!--
