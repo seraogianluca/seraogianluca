@@ -2,9 +2,9 @@
 
 I'm a computer engineer, currently studying **artificial intelligence and data engineering** in Pisa.
 
-🌱  Learning about machine learning and big data.
-📫  Reach me on [Twitter](https://twitter.com/jackthemiddle).
-⚡   Fun fact: I love racing games.
+- 🌱  Learning about machine learning and big data.
+- 📫  Reach me on [Twitter](https://twitter.com/jackthemiddle).
+- ⚡   Fun fact: I love racing games.
 
 <!--
 **seraogianluca/seraogianluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
