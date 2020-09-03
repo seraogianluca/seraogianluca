@@ -9,10 +9,5 @@ I'm a computer engineer, currently studying artificial intelligence and data eng
 - ⚡   Fun fact: I love racing games.
 
 ## Stats
-<details>
-  
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seraogianluca&show_icons=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seraogianluca&layout=compact)
-  
-</details>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seraogianluca&show_icons=true&count_private=true)
