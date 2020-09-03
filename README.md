@@ -5,11 +5,9 @@ I'm a computer engineer, currently studying **artificial intelligence and data e
 - 🌱  Learning about machine learning and big data.
 - ⚡   Fun fact: I love racing games.
 
-<!--
-**seraogianluca/seraogianluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 💬 Ask me about ...
-- 🔭 I’m currently working ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
--->
+<details><summary>Github stats</summary>
+<p>
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seraogianluca&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seraogianluca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+</details>
