@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a computer engineer, currently studying * artificial intelligence and data engineering* at *Università degli studi di Pisa*.
+I'm a computer engineer, currently studying artificial intelligence and data engineering at *Università degli studi di Pisa*.
 
-- 🌱  Learning about artificial intelligence, big data and cloud.
+- 🌱  Learning subjects: artificial intelligence, big data and cloud.
 - ⚙️  Current languages: Python, Java, C.
 - ⚡   Fun fact: I love racing games.
 
