@@ -5,7 +5,7 @@
 I'm a computer engineer, currently studying artificial intelligence and data engineering at *Università degli studi di Pisa*.
 
 - 🌱  Learning subjects: artificial intelligence, big data and cloud applications.
-- ⚙️  Current languages: Python, Java, C.
+- ⚙️  Current languages: Python, Java, C, C++.
 - ⚡   Fun fact: I love racing games.
 
 ## Stats
