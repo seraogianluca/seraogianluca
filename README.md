@@ -1,13 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Gianluca 👨🏻‍💻</h1>
 
-## About me
+<p align="center">Perky computer engineer studying 🎓 artificial intelligence and data engineering. Technology 💻 and games 🎮 lover, F1 🏎 enthusiast.</p>
 
-I'm a computer engineer, currently studying artificial intelligence and data engineering at *Università degli studi di Pisa*.
+<h2 align="center">About me</h2>
+<p>I'm studying artificial intelligence and data engineering at <i>Università Degli Studi di Pisa</i>. My primary interests are <b>deep learning</b> and <b>computer vision</b>. Currently, I'm working on action recognition.</p>
 
-- 🌱  Learning subjects: artificial intelligence, big data and cloud applications.
-- ⚙️  Current languages: Python, Java, C, C++.
-- ⚡   Fun fact: I love racing games.
+<p> 🌱  Learning subjects: artificial intelligence, big data and cloud applications. </p>
+<p> ⚙️  Current languages: Python, Java, C, C++. </p>
+<p> ⚡   Fun fact: I love racing games. </p>
 
-## Stats
+<h2 align="center">Stats</h2>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seraogianluca&show_icons=true&count_private=true)
