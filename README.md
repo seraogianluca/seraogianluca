@@ -8,15 +8,7 @@
   
 </div>
   
-<p align="center">Perky computer engineer studying 🎓 artificial intelligence and data engineering. Technology 💻 and games 🎮 lover, F1 🏎 enthusiast.</p>
-
-<h2 align="center">About me</h2>
-<p>I'm studying artificial intelligence and data engineering at <i>Università di Pisa</i>. My primary interests are <b>deep learning</b> and <b>computer vision</b>. Currently, I'm working on action recognition.
-  
-  - 🌱  Learning subjects: artificial intelligence, big data and cloud applications.
-  - ⚡   Fun fact: I love racing games. 
-
-</p>
+<p align="center">Data scientist. Technology 💻 and games 🎮 lover, F1 🏎 enthusiast.</p>
 
 <div align="center">
  
