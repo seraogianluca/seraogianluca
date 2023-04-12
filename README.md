@@ -4,7 +4,6 @@
   
 ![](https://img.shields.io/github/followers/seraogianluca?style=for-the-badge)
 ![](https://img.shields.io/github/stars/seraogianluca?style=for-the-badge)
-![](https://img.shields.io/twitter/follow/jackthemiddle?style=for-the-badge)
   
 </div>
   
